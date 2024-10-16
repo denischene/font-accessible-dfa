@@ -22,15 +22,18 @@ Accessible-DfA font is free to download, subject to the licence agreement.
 
 ### To download and install the free Accessible-DfA font for Windows
 
-Click on the link “AccessibleDfA.ttf” or “AccessibleDfA.otf” at the top of this page, download the file on your desktop. Go there, and right click again on the saved file, a contextual menu is opened, then choose _“install”_. Now the font is visible from any editors (word, writer, notepad…).
+Click on the link “AccessibleDfA.ttf” at the top of this page, download the file on your desktop. Go there, and right click again on the saved file, a contextual menu is opened, then choose _“install”_. Now the font is visible from any editors (word, writer, notepad…).
 
 ### To download and install the free Accessible-DfA font for Linux (GNOME)
 
 * In Nautilus, go to your user root (`~`) and display all hidden files and folders
 * find a folder named `.fonts` — if it does not exist, create it
-* drag the “AccessibleDfA.otf” font file into the folder
+* drag the “AccessibleDfA.ttf” font file into the folder
 * if needed, restart your word processor to see the Accessible DfA font in your font list
 
+### Last improvement
+* Accessible DfA is from now (v2.0) a variable font (including bold & italic variations)
+* It includes 36 languages (Français, English, Polskim, Español, Nederlands, Català, Lëtzebuergesch, Português, Slovenský, Romana, Deutsch, Afar, Balante, Bambara, Ɔnə̀yan, Cabuverdiánu, Dioula, Kituba, Kpɛlɛ guinée, Kpɛlɛ liberia, Krio, Limba, Lingala, Malagasy, Mandinka, Mendé, Ngbúgù, Nouchi, Pular-Fulfulde, Sängö, Sìtswáná, Soso, Kiswahili, Temné, Tshiluba, Wolof ), including the schwa ə, the open-e ɛ , the open-o ɔ used in many african languages. 
 
 # Author
 Denis CHÊNE, denis.chene@orange.com
